@@ -1,0 +1,12 @@
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\bin\Debug\net6.0\NLayer.core.deps.json
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\bin\Debug\net6.0\NLayer.core.dll
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\bin\Debug\net6.0\NLayer.core.pdb
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\NLayer.core.csproj.AssemblyReference.cache
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\NLayer.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\NLayer.core.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\NLayer.core.AssemblyInfo.cs
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\NLayer.core.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\NLayer.core.dll
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\refint\NLayer.core.dll
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\NLayer.core.pdb
+C:\Users\yasar\source\repos\NLayerApp\NLayer.core\obj\Debug\net6.0\ref\NLayer.core.dll
